@@ -6,7 +6,7 @@
 #
 
 if [[ -z "${1}" ]]; then
-    file="proprietary-files.txt"
+    file="proprietary-files-qc.txt"
 else
     file=${1}
 fi

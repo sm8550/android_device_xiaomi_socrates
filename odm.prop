@@ -1,2 +1,11 @@
 # Qti
 ro.vendor.qti.va_odm.support=1
+
+# Xiaomi
+ro.product.odm.brand=Redmi
+ro.product.odm.device=socrates
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=22127RK46C
+ro.product.odm.cert=22127RK46C
+ro.product.odm.name=socrates
+ro.product.odm.marketname=Redmi K60 Pro

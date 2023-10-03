@@ -1,5 +1,14 @@
-# DPM
-persist.vendor.dpm.feature=1
-
-# Radio
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=1
 telephony.active_modems.max_count=2
+persist.sys.mcd_config_file=/system/etc/mcd_default.conf
+persist.sys.gps.polaris=true
+persist.sys.gps.fence=true
+persist.sys.oom_crash_on_watchdog=true
+persist.sys.sysrqOnAnr_D_state=true
+persist.sys.debug.fdtrack_abort_threshold=4096
+persist.sys.debug.fdtrack_enable_threshold=2048
+ro.malloc.impl=jemalloc
+persist.wm.enable_remote_keyguard_animation=0
+ro.surface_flinger.supports_background_blur=1
+persist.sys.wifi_track=true
